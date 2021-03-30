@@ -173,16 +173,25 @@ namespace TokyoChokoku.Patmark.iOS.Presenter.Embossment
             var fields = file.Owner.Serializable;
             if (fields.Count() > 0)
             {
-                //////old code, unsure of purpose -LH
-                //var first = fields.First();
-                //Data = EmbossmentData.Create(
-                //    EmbossmentMode.FromMBData(first),
-                //    first.Text
-                //);
-                Data = EmbossmentData.Create(
-                    new EmbossmentMode(),
-                    ""
-                );
+
+                var first = fields.First();
+                ushort mode = first.Mode;
+                // ushort mode is flnm in MBDATA defined as a hex value
+                // mode : 0 = Text or Logo; 400 = QR code; 800 = DM
+                if (mode == 0)
+                {
+                    Data = EmbossmentData.Create(
+                        EmbossmentMode.FromMBData(first),
+                        first.Text
+                    );
+                }
+                else
+                {
+                    Data = EmbossmentData.Create(
+                        new EmbossmentMode(),
+                        ""
+                    );
+                }
             }
             else
             {
