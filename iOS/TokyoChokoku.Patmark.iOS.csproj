@@ -19,7 +19,7 @@
     <DefineConstants>DEBUG;ENABLE_TEST_CLOUD;</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <CodesignKey>Apple Development: inc unicast (MX49RA8VUV)</CodesignKey>
+    <CodesignKey>Apple Development: ATSUTOSHI HANAWA (B3646V7BN4)</CodesignKey>
     <DeviceSpecificBuild>true</DeviceSpecificBuild>
     <MtouchDebug>true</MtouchDebug>
     <MtouchNoSymbolStrip>true</MtouchNoSymbolStrip>
@@ -39,19 +39,15 @@
     <OutputPath>bin\iPhone\Release</OutputPath>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <CodesignKey>Apple Development: inc unicast (MX49RA8VUV)</CodesignKey>
-    <MtouchFloat32>false</MtouchFloat32>
+    <CodesignKey>Apple Development: ATSUTOSHI HANAWA (B3646V7BN4)</CodesignKey>
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
     <MtouchLink>Full</MtouchLink>
-    <MtouchArch>ARM64</MtouchArch>
+    <MtouchArch>ARMv7, ARM64</MtouchArch>
     <MtouchHttpClientHandler>HttpClientHandler</MtouchHttpClientHandler>
     <PlatformTarget>anycpu</PlatformTarget>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <MtouchI18n>cjk</MtouchI18n>
-    <DeviceSpecificBuild>false</DeviceSpecificBuild>
 <MtouchDebug>false</MtouchDebug>
-<MtouchNoSymbolStrip>false</MtouchNoSymbolStrip>
-<MtouchUseLlvm>true</MtouchUseLlvm>
 <MtouchUseThumb>true</MtouchUseThumb>
 <CodesignProvision>VS: WildCard Development</CodesignProvision>
   </PropertyGroup>
@@ -61,7 +57,7 @@
     <OutputPath>bin\iPhoneSimulator\Release</OutputPath>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <CodesignKey>Apple Development: inc unicast (MX49RA8VUV)</CodesignKey>
+    <CodesignKey>Apple Development: ATSUTOSHI HANAWA (B3646V7BN4)</CodesignKey>
     <DeviceSpecificBuild>true</DeviceSpecificBuild>
     <MtouchNoSymbolStrip>true</MtouchNoSymbolStrip>
     <MtouchLink>None</MtouchLink>
@@ -80,12 +76,10 @@
     <DefineConstants>DEBUG;ENABLE_TEST_CLOUD;</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <CodesignKey>Apple Development: inc unicast (MX49RA8VUV)</CodesignKey>
+    <CodesignKey>Apple Development: ATSUTOSHI HANAWA (B3646V7BN4)</CodesignKey>
     <DeviceSpecificBuild>true</DeviceSpecificBuild>
     <MtouchDebug>true</MtouchDebug>
     <MtouchNoSymbolStrip>true</MtouchNoSymbolStrip>
-    <MtouchFastDev>true</MtouchFastDev>
-    <MtouchFloat32>true</MtouchFloat32>
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
     <IOSDebuggerPort>20973</IOSDebuggerPort>
     <MtouchLink>None</MtouchLink>
@@ -295,13 +289,14 @@
     <InterfaceDefinition Include="Resources\Base.lproj\MachineModelNoView.xib" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Info.plist" />
     <None Include="Entitlements.plist" />
     <None Include="packages.config" />
     <None Include="LICENSE.EndianBitConverter.txt" />
     <None Include="FieldCanvasForIOS\Readme.md" />
     <None Include="NLog.xsd" />
     <None Include="NLog.config" />
+    <None Include="Models\Info.plist" />
+    <None Include="Info.plist" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AppDelegate.cs" />

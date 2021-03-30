@@ -12,6 +12,9 @@
     <DevelopmentDependency>true</DevelopmentDependency>
   </PropertyGroup>
 
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugType>full</DebugType>
+  </PropertyGroup>
   <ItemGroup>
     <Folder Include="CalendarModule.Setting\" />
     <Folder Include="CalendarModule.Property\" />

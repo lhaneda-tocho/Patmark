@@ -11,7 +11,8 @@
   </PropertyGroup>
 
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <DefineConstants>NETSTANDARD1_6;TRACE;DEBUG;NETSTANDARD;NETSTANDARD2_1; </DefineConstants>
+    <DebugType>full</DebugType>
+    <DefineConstants>NETSTANDARD1_6;TRACE;DEBUG;NETSTANDARD;NETSTANDARD2_1;</DefineConstants>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType></DebugType>

@@ -173,10 +173,15 @@ namespace TokyoChokoku.Patmark.iOS.Presenter.Embossment
             var fields = file.Owner.Serializable;
             if (fields.Count() > 0)
             {
-                var first = fields.First();
+                //////old code, unsure of purpose -LH
+                //var first = fields.First();
+                //Data = EmbossmentData.Create(
+                //    EmbossmentMode.FromMBData(first),
+                //    first.Text
+                //);
                 Data = EmbossmentData.Create(
-                    EmbossmentMode.FromMBData(first),
-                    first.Text
+                    new EmbossmentMode(),
+                    ""
                 );
             }
             else

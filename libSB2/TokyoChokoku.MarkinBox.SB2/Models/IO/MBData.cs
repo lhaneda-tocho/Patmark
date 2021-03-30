@@ -110,7 +110,7 @@ namespace TokyoChokoku.MarkinBox.Sketchbook
 		public short ZDepth { get { return model.ZDepth; } }
 
 		/// <summary>
-		/// 図形タイプを取得．列挙値として定義されています．
+		/// タイプを取得．列挙値として定義されています．
 		/// 255:どの図形でもない
 		/// </summary>
 		public byte Type { get { return model.Type; } }

@@ -424,7 +424,7 @@ namespace TokyoChokoku.MarkinBox.Sketchbook
 
         static partial void ReadQrCode (IniSection section, MBDataStructure raw)
         {
-            var defaultValue = DataMatrixConstant.DotCount10x10;
+            var defaultValue = DataMatrixConstant.DotCount10x10;    
 
             raw.PrmFl = FontMode.FontBarcode.ToPrmFl ();
 
@@ -458,9 +458,9 @@ namespace TokyoChokoku.MarkinBox.Sketchbook
                 }
                 case 1: {
                     byte vertical;
-                    if (!byte.TryParse (values [0], out vertical))
+                    if (!byte.TryParse(values[0], out vertical))
                         vertical = defaultValue.Horizontal;
-                    dm.VerticalDotCount   = vertical;
+                    dm.VerticalDotCount = vertical;
                     dm.HorizontalDotCount = vertical;
                     break;
                 }

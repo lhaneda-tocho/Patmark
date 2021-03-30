@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{52C80098-BA06-4CF6-BABE-5B552FDBE03C}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TokyoChokoku.Patmark.iOS" expanded="True" selected="True">
+            <Node name="TokyoChokoku.Patmark.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.TokyoChokoku.Patmark.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F648E398-985A-442C-B4A6-C302DAB6FBF8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
