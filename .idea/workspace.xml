@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd040562-f444-42d7-8072-288dd00ddc5a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Patmark.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/android_arch_core_common.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/android_arch_core_common1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/android_arch_core_common12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/android_arch_core_common2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/android_arch_lifecycle_common.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/android_arch_lifecycle_common1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/android_arch_lifecycle_common12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/android_arch_lifecycle_common2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/bin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/bin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/bin12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/bin2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/bin22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/bin23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/classes1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/classes10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/classes102.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/classes11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/classes112.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/classes12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/classes2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/classes22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/classes23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/classes3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/classes32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/classes4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/classes42.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/classes5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/classes52.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/classes6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/classes62.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/classes7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/classes72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/classes8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/classes82.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/classes9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/classes92.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_collections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_collections1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_collections12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_collections2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_annotations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_annotations1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_annotations12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_annotations2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/constraint_layout_solver.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/constraint_layout_solver1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/constraint_layout_solver12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/constraint_layout_solver2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jp.co.tokyo_chokoku.patmark-Signed.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jp.co.tokyo_chokoku.patmark.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Droid/Properties/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Droid/Properties/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Droid/TokyoChokoku.Patmark.Droid.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Droid/TokyoChokoku.Patmark.Droid.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TokyoChokoku.PatmarkStd/Presenter/Embossment/EmbossmentFileRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TokyoChokoku.PatmarkStd/Presenter/Embossment/EmbossmentFileRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iOS/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/iOS/Info.plist" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rh7kYJeNqiHhGC7gvDOVOe8YFn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$/Droid" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd040562-f444-42d7-8072-288dd00ddc5a" name="Default Changelist" comment="" />
+      <created>1619416611278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619416611278</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="221" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621008816154">
+      <screen x="0" y="25" width="1440" height="827" />
+    </state>
+    <state x="221" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.827@0.25.1440.827" timestamp="1621008816154" />
+    <state x="174" y="125" width="1166" height="626" key="AVDManager" timestamp="1619426971791">
+      <screen x="0" y="25" width="1440" height="827" />
+    </state>
+    <state x="174" y="125" width="1166" height="626" key="AVDManager/0.25.1440.827@0.25.1440.827" timestamp="1619426971791" />
+    <state x="545" y="184" key="FileChooserDialogImpl" timestamp="1621875316808">
+      <screen x="0" y="25" width="1440" height="827" />
+    </state>
+    <state x="545" y="184" key="FileChooserDialogImpl/0.25.1440.827@0.25.1440.827" timestamp="1621875316808" />
+    <state x="422" y="197" key="run.anything.popup" timestamp="1619424805128">
+      <screen x="0" y="25" width="1440" height="827" />
+    </state>
+    <state x="422" y="197" key="run.anything.popup/0.25.1440.827@0.25.1440.827" timestamp="1619424805128" />
+  </component>
+</project>
